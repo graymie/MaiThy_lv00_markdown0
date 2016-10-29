@@ -6,13 +6,14 @@
 ###-Dễ sử dụng, dễ viết các định dạng văn bản đơn giản dễ đọc, và tùy chọn chuyển đổi nó thành các mã XHTML hợp lệ (hoặc HTML)".
 ##3.CÚ PHÁP THƯỜNG GẶP
 ###*Định dạng chữ
- ~~~ Inline CodeTạo chữ in đậm bằng cách dùng \*\*in đậm ** hoặc__ __:  **in đậm** hoặc __in đậm__
+``` Tạo chữ in đậm bằng cách dùng \*\*in đậm ** hoặc__ __:  **in đậm** hoặc __in đậm__
 
 Tạo chữ in nghiêng bằng cách dùng \*in nghiêng* hoặc \_in nghiêng _:  *in nghiêng* hoặc in nghiêng_
 
 Tạo kết hợp định dạng chữ bằng cách dùng \*\*\_in đậm in nghiêng \_\*\*   :  **_in đậm và in đậm nghiêng_**
 
-Tạo chữ gạch ngang bằng ~~ ~ , ~~gach ngang~~ ~~~
+Tạo chữ gạch ngang bằng ~~ ~ , ~~gach ngang~~ 
+```.
 
 
 ###* Tạo tiêu đề 
