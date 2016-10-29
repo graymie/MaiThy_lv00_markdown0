@@ -18,5 +18,13 @@ Tạo kết hợp định dạng chữ bằng cách dùng **_  _** : **_in đậ
 ## thy thy
 ### ThyThy
 #### Thy Thy
+###-Tạo liên kết
+Để tạo liên kết bạn gõ như sau
+
+[tên link](http://www.facebook.com/tomorete)
+
+[tên link với chú thích](https://www.facebook.com/tomorete "fb thy dễ thương :v")
+
+
 
 
