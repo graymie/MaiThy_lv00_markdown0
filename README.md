@@ -25,11 +25,12 @@ Tạo kết hợp định dạng chữ bằng cách dùng **_  _** : **_in đậ
 [thy thy](http://www.facebook.com/tomorete)
 
 [thy thy](https://www.facebook.com/tomorete "fb thy dễ thương :v")
+hoặc tạo liên kết trực tiếp
+https://www.facebook.com/tomorete 
 ###- Tạo liên kết hình ảnh
 sử dụng
+![ma](https://gianganh.net/wp-content/uploads/2016/02/con-quy.jpg)
 
 
-
-https://camo.githubusercontent.com/3230b53d39b53b6712e0bb58937eb26736c2453f/687474703a2f2f63617974726f6e677661746e756f692e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031362f31302f486f612d682545312542422539336e672d526f73612d496e646963612e6a7067 
 
 
