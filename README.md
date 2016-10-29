@@ -32,7 +32,9 @@ sử dụng
 ![ma](https://gianganh.net/wp-content/uploads/2016/02/con-quy.jpg)
 ###-highlight:
 dùng cú pháp == ==
+Inline Code
 
+inline code
 ==thy==
 
 
