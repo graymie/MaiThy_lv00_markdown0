@@ -28,6 +28,7 @@ Tạo chữ gạch ngang bằng ~~ ~ , ~~gach ngang~
 [thy thy](http://www.facebook.com/tomorete)
 
 \[thy thy](https://www.facebook.com/tomorete "fb thy dễ thương :v")\
+
 [thy thy](https://www.facebook.com/tomorete "fb thy dễ thương :v")
 hoặc tạo liên kết trực tiếp
 https://www.facebook.com/tomorete 
