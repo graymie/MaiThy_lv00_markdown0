@@ -12,7 +12,10 @@ Tạo chữ in nghiêng bằng cách dùng \*in nghiêng* hoặc \_in nghiêng _
 
 Tạo kết hợp định dạng chữ bằng cách dùng \*\*\_in đậm in nghiêng \_\*\*   :  **_in đậm và in đậm nghiêng_**
 
-Tạo chữ gạch ngang bằng ~~ ~ , ~~gach ngang~~ .```.
+Tạo chữ gạch ngang bằng ~~ ~ , ~~gach ngang~~ .
+
+
+```.
 
 
 
