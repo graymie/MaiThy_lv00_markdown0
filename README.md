@@ -29,13 +29,10 @@ hoặc tạo liên kết trực tiếp
 https://www.facebook.com/tomorete 
 ###- Tạo liên kết hình ảnh
 sử dụng
-![ma](https://gianganh.net/wp-content/uploads/2016/02/con-quy.jpg)
+==![ma](https://gianganh.net/wp-content/uploads/2016/02/con-quy.jpg)==
 ###-highlight:
 dùng cú pháp == ==
-Inline Code
-
-inline code
-==thy==
+=== thy ===
 
 
 
