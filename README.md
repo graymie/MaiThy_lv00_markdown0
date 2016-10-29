@@ -5,4 +5,11 @@
 ##2.CÔNG DỤNG
 ###-Dễ sử dụng, dễ viết các định dạng văn bản đơn giản dễ đọc, và tùy chọn chuyển đổi nó thành các mã XHTML hợp lệ (hoặc HTML)".
 ##3.CÚ PHÁP THƯỜNG GẶP
-###
+###-Định dạng chữ
+Tạo chữ in đậm bằng cách gõ **in đậm** hoặc __in đậm__
+
+Tạo chữ in nghiêng bằng cách gõ *in nghiêng* hoặc _in nghiêng_
+
+Tạo kết hợp định dạng chữ bằng cách gõ **in đậm và _in đậm nghiêng_**
+
+
