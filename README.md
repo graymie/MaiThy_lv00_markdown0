@@ -20,11 +20,11 @@ Tạo kết hợp định dạng chữ bằng cách dùng **_  _** : **_in đậ
 #### Thy Thy
 ###-Tạo liên kết
 Để tạo liên kết bạn gõ như sau:
-[](link)
+[...](link)
 
 [thy thy](http://www.facebook.com/tomorete)
 
-[thythy](https://www.facebook.com/tomorete "fb thy dễ thương :v")
+[thy thy](https://www.facebook.com/tomorete "fb thy dễ thương :v")
 
 
 
