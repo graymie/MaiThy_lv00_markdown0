@@ -22,7 +22,7 @@ Tạo chữ gạch ngang bằng ~~ ~ , ~~gach ngang~
 ### ThyThy
 #### Thy Thy
 ###*Tạo liên kết
-Để tạo liên kết bạn gõ như sau: sử dụng \![tên hình ảnh](đường dẫn, "tên ảnh")\
+Để tạo liên kết bạn gõ như sau: sử dụng \!\[tên hình ảnh\]\(đường dẫn, "tên ảnh"\)
 
 [...](link)
 
