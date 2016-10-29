@@ -30,6 +30,9 @@ https://www.facebook.com/tomorete
 ###- Tạo liên kết hình ảnh
 sử dụng
 ![ma](https://gianganh.net/wp-content/uploads/2016/02/con-quy.jpg)
+###-highlight:
+dùng cú pháp == ==
+== thy ==
 
 
 
