@@ -6,10 +6,10 @@
 ###-Dễ sử dụng, dễ viết các định dạng văn bản đơn giản dễ đọc, và tùy chọn chuyển đổi nó thành các mã XHTML hợp lệ (hoặc HTML)".
 ##3.CÚ PHÁP THƯỜNG GẶP
 ###-Định dạng chữ
-Tạo chữ in đậm bằng cách dùng ** hoặc__:  **in đậm** hoặc __in đậm__
+Tạo chữ in đậm bằng cách dùng ** ** hoặc__ __:  **in đậm** hoặc __in đậm__
 
-Tạo chữ in nghiêng bằng cách dùng * hoặc _ :  *in nghiêng* hoặc _in nghiêng_
+Tạo chữ in nghiêng bằng cách dùng * * hoặc _ _:  *in nghiêng* hoặc _in nghiêng_
 
-Tạo kết hợp định dạng chữ bằng cách gõ **in đậm và _in đậm nghiêng_**
+Tạo kết hợp định dạng chữ bằng cách dùng ** hoặc _ _** : **in đậm và _in đậm nghiêng_**
 
 
