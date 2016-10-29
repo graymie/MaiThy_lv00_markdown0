@@ -21,14 +21,14 @@ Tạo chữ gạch ngang bằng `~~ ~ , ~~gach ngang~~ .`
 
 
 ###* Tạo tiêu đề 
-- Bằng cách sử dụng #, ##, ### ...
+- Bằng cách sử dụng` #, ##, ### ...`
 
 # Thy thy
 ## thy thy
 ### ThyThy
 #### Thy Thy
 ###*Tạo liên kết
-Để tạo liên kết bạn gõ như sau: Khai báo trong \[tên liên kết\]\(link\)
+Để tạo liên kết bạn gõ như sau:` Khai báo trong \[tên liên kết\]\(link\)`
 
 [...](link)
 
@@ -42,10 +42,12 @@ hoặc tạo liên kết trực tiếp
 
 https://www.facebook.com/tomorete 
 ###* Tạo liên kết hình ảnh
-sử dụng  \!\[tên hình ảnh\]\(đường dẫn, "tên ảnh"\)
+`sử dụng  \!\[tên hình ảnh\]\(đường dẫn, "tên ảnh"\)`
 ![ma](https://gianganh.net/wp-content/uploads/2016/02/con-quy.jpg)
 ###* Escape: dùng khi cần sử dụng \*\*in đậm \*\* mà không bị biến thành **in đậm**, \\*\\*in đậm \\*\\*
 ![tongket](https://embed.gyazo.com/4d5c39f78e32abda99216b64554a84b7.png)
+###* Hightlight 
+sử dụng \`đoạn\` hiển thị như sau  `đoạn`
 
 
 
