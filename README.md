@@ -8,9 +8,9 @@
 ###*Định dạng chữ
 Tạo chữ in đậm bằng cách dùng \*\*in đậm ** hoặc__ __:  **in đậm** hoặc __in đậm__
 
-Tạo chữ in nghiêng bằng cách dùng * * hoặc _ _:  *in nghiêng* hoặc _in nghiêng_
+Tạo chữ in nghiêng bằng cách dùng \*in nghiêng* hoặc _ _:  *in nghiêng* hoặc _in nghiêng_
 
-Tạo kết hợp định dạng chữ bằng cách dùng **_  _** : **_in đậm và _in đậm nghiêng_**
+Tạo kết hợp định dạng chữ bằng cách dùng \*\*\_in đậm in nghiêng  _** : **_in đậm và _in đậm nghiêng_**
 
 Tạo chữ gạch ngang bằng ~~ ~ , ~~gach ngang~
 
