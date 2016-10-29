@@ -26,6 +26,6 @@ Tạo kết hợp định dạng chữ bằng cách dùng **_  _** : **_in đậ
 
 [thy thy](https://www.facebook.com/tomorete "fb thy dễ thương :v")
 ###- Tạo liên kết hình ảnh
-sử dụng ![mèo](//www.google.com.vn/imgres?imgurl=https://i.ytimg.com/vi/o4V-aEU3EOw/hqdefault.jpg&imgrefurl=https://www.youtube.com/watch%3Fv%3Do4V-aEU3EOw&h=360&w=480&tbnid=XknGqZoDLaYuRM:&tbnh=150&tbnw=200&docid=4TTi1ZiRgGEaEM&itg=1&usg=__SVBzF0UxPtXy0pmAUgEHPiZXcvg=&sa=X&ved=0ahUKEwjH0u_Ai__PAhXLlZQKHWLvAScQ_B0IYzAM&ei=5BkUWMfQMsur0gTi3oe4Ag ,"mèo xinh")
+sử dụng ![mèo]( //https://www.google.com.vn/search?q=m%C3%A8o&espv=2&biw=1920&bih=935&tbm=isch&imgil=fMJZPhhAaNFUbM%253A%253BBbZTURo2UHUdpM%253Bhttp%25253A%25252F%25252Fkhoahoc.tv%25252F9-su-that-gay-sock-danh-rieng-cho-nguoi-yeu-meo-58138&source=iu&pf=m&fir=fMJZPhhAaNFUbM%253A%252CBbZTURo2UHUdpM%252C_&usg=__qtHJ_DpQrVOTbB5w5LTqcN_FDRs%3D&dpr=1&ved=0ahUKEwjH0u_Ai__PAhXLlZQKHWLvAScQyjcIcQ&ei=5BkUWMfQMsur0gTi3oe4Ag#imgrc=fMJZPhhAaNFUbM%3A,"mèo xinh")
 
 
