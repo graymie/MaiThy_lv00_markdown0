@@ -27,6 +27,9 @@ Tạo chữ gạch ngang bằng `~~ ~ , ~~gach ngang~~ .`
 ## thy thy
 ### ThyThy
 #### Thy Thy
+###* Hightlight 
+sử dụng \`đoạn\` hiển thị như sau  `đoạn`
+
 ###*Tạo liên kết
 Để tạo liên kết bạn gõ như sau:` Khai báo trong \[tên liên kết\]\(link\)`
 
@@ -46,8 +49,7 @@ https://www.facebook.com/tomorete
 ![ma](https://gianganh.net/wp-content/uploads/2016/02/con-quy.jpg)
 ###* Escape: dùng khi cần sử dụng \*\*in đậm \*\* mà không bị biến thành **in đậm**, \\*\\*in đậm \\*\\*
 ![tongket](https://embed.gyazo.com/4d5c39f78e32abda99216b64554a84b7.png)
-###* Hightlight 
-sử dụng \`đoạn\` hiển thị như sau  `đoạn`
+
 
 
 
