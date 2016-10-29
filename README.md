@@ -26,6 +26,6 @@ Tạo kết hợp định dạng chữ bằng cách dùng **_  _** : **_in đậ
 
 [thy thy](https://www.facebook.com/tomorete "fb thy dễ thương :v")
 ###- Tạo liên kết hình ảnh
-sử dụng ![mèo](https://i.ytimg.com/vi/o4V-aEU3EOw/hqdefault.jpg,"mèo xinh")
+sử dụng ![mèo](https://i.ytimg.com/vi/o4V-aEU3EOw/hqdefault.jpg ,"mèo xinh")
 
 
