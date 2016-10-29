@@ -25,6 +25,8 @@ Tạo kết hợp định dạng chữ bằng cách dùng **_  _** : **_in đậ
 [thy thy](http://www.facebook.com/tomorete)
 
 [thy thy](https://www.facebook.com/tomorete "fb thy dễ thương :v")
+###- Tạo liên kết hình ảnh
+sử dụng *![tên hình ảnh](đường dẫn, "tên ảnh")*
 
 
 
