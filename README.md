@@ -6,13 +6,13 @@
 ###-Dễ sử dụng, dễ viết các định dạng văn bản đơn giản dễ đọc, và tùy chọn chuyển đổi nó thành các mã XHTML hợp lệ (hoặc HTML)".
 ##3.CÚ PHÁP THƯỜNG GẶP
 ###*Định dạng chữ
-Tạo chữ in đậm bằng cách dùng \*\*in đậm ** hoặc__ __:  **in đậm** hoặc __in đậm__
+```Tạo chữ in đậm bằng cách dùng \*\*in đậm ** hoặc__ __:  **in đậm** hoặc __in đậm__
 
 Tạo chữ in nghiêng bằng cách dùng \*in nghiêng* hoặc \_in nghiêng _:  *in nghiêng* hoặc in nghiêng_
 
 Tạo kết hợp định dạng chữ bằng cách dùng \*\*\_in đậm in nghiêng \_\*\*   :  **_in đậm và in đậm nghiêng_**
 
-Tạo chữ gạch ngang bằng ~~ ~ , ~~gach ngang~
+Tạo chữ gạch ngang bằng ~~ ~ , ~~gach ngang~```.
 
 ###* Tạo tiêu đề 
 - Bằng cách sử dụng #, ##, ### ...
@@ -22,7 +22,7 @@ Tạo chữ gạch ngang bằng ~~ ~ , ~~gach ngang~
 ### ThyThy
 #### Thy Thy
 ###*Tạo liên kết
-Để tạo liên kết bạn gõ như sau: sử dụng \!\[tên hình ảnh\]\(đường dẫn, "tên ảnh"\)
+Để tạo liên kết bạn gõ như sau: Khai báo trong \[tên liên kết\]\(link\)
 
 [...](link)
 
@@ -31,12 +31,15 @@ Tạo chữ gạch ngang bằng ~~ ~ , ~~gach ngang~
 \[thy thy](https://www.facebook.com/tomorete "fb thy dễ thương :v")\
 
 [thy thy](https://www.facebook.com/tomorete "fb thy dễ thương :v")
+
 hoặc tạo liên kết trực tiếp
+
 https://www.facebook.com/tomorete 
 ###* Tạo liên kết hình ảnh
-sử dụng
+sử dụng  \!\[tên hình ảnh\]\(đường dẫn, "tên ảnh"\)
 ![ma](https://gianganh.net/wp-content/uploads/2016/02/con-quy.jpg)
-###-highlight:
+###* Escape: dùng khi cần sử dụng \*\*in đậm \*\* mà không bị biến thành **in đậm**, \\*\\*in đậm \\*\\*
+![tongket](https://embed.gyazo.com/4d5c39f78e32abda99216b64554a84b7.png)
 
 
 
